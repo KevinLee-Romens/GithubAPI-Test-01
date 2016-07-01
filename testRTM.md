@@ -1,1 +1,1 @@
-[object Object]
+{"pass":"123123","gender":"female","remark":"sdfsdfbvcnhjfg","agreement":true}
